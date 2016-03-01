@@ -21,7 +21,7 @@ the puppet master
         "given #{arguments.size} for 1")
     end
 
-    contents = File.open('path-to-file.tar.gz', 'rb') { |f| f.read }
+    contents = File.open(arguments[0], 'rb') { |f| f.read }
 
     return contents
   end

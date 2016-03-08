@@ -1,9 +1,9 @@
 {
   "name": "jcpunk-file_on_server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Pat Riehecky <riehecky@fnal.gov>",
   "summary": "Provides the content of a file local to the server",
-  "license": "GPL-3.0+",
+  "license": "Apache 2.0",
   "source": "https://github.com/jcpunk/puppet-file_on_server",
   "project_page": "https://github.com/jcpunk/puppet-file_on_server",
   "issues_url": "https://github.com/jcpunk/puppet-file_on_server/issues",
